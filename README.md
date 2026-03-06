@@ -2,6 +2,9 @@
 
 This Node.js script demonstrates web scraping, API integration, and text processing using Selenium.
 
+#Public Build Link: 
+https://automate.browserstack.com/projects/SahilJadhav_BrowserStackAssignment/builds/El+Pais+Scraper+Build/1?public_token=ea1fb74e7c57d3ec3a2485c66272ffe090f579307762ed1d9f5dedd51014c53b
+
 ## Features
 
 - Scrapes the first 5 articles from El País Opinion section.
@@ -20,20 +23,6 @@ This Node.js script demonstrates web scraping, API integration, and text process
 
 To run on BrowserStack, set your username and access key as environment variables:
 
-- **In Command Prompt (cmd):**
-  ```
-  set BROWSERSTACK_USERNAME=your_username
-  set BROWSERSTACK_ACCESS_KEY=your_access_key
-  npm start
-  ```
-
-- **In PowerShell:**
-  ```
-  $env:BROWSERSTACK_USERNAME = "your_username"
-  $env:BROWSERSTACK_ACCESS_KEY = "your_access_key"
-  npm start
-  ```
-
 - **In WSL/Linux:**
   ```
   export BROWSERSTACK_USERNAME=your_username
@@ -41,7 +30,6 @@ To run on BrowserStack, set your username and access key as environment variable
   npm start
   ```
 
-Replace `your_username` and `your_access_key` with your actual BrowserStack credentials from your [BrowserStack account](https://automate.browserstack.com/dashboard).
 
 ## Requirements
 
