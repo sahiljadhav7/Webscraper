@@ -2,7 +2,8 @@
 
 This Node.js script demonstrates web scraping, API integration, and text processing using Selenium.
 
-#Public Build Link: 
+## Public Build Link: 
+
 https://automate.browserstack.com/projects/SahilJadhav_BrowserStackAssignment/builds/El+Pais+Scraper+Build/1?public_token=ea1fb74e7c57d3ec3a2485c66272ffe090f579307762ed1d9f5dedd51014c53b
 
 ## Features
