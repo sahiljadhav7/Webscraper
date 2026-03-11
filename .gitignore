@@ -1,5 +1,10 @@
-node_modules/
+﻿node_modules/
+dashboard/node_modules/
+dashboard/dist/
 .env
+logs/*.log
+images/*
+!images/.gitkeep
+coverage/
 .DS_Store
-*.log
 npm-debug.log*
